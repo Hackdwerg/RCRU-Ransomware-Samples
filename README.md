@@ -4,12 +4,14 @@ Samples from the RCRU Ransomware - may 2023
 After a couple of days worth of research and simple decompiling:
 
 **Non-Technical details:**
+
 RCRU is a Ransomware as a Service (RaaS) platform. The behaviour of the RCRU Ransomware looks a lot like the Goodmorning Ransomware strain.
 The RCRU Ransomware operator behaves like any other ransomware operator. It will extort you for money, and most likely it will go down in price after a while. 
 The reason for this is that the Ransomware operator who has bought the RCRU license for a year for a price of 2.000$ must pay a fixed amount to the creator of the program per ransomware. 
 The price is: 650$ for the developer/creator of the RCRU ransomware. Everything above 650$ will go to the operator. This money needs to be transfered to a Tether wallet (TRC20).
 
 **Technical details:**
+
 The RCRU ransomware encrypts the files with a private key. 
 For now our research points to a simple Request to a C2 server.
 The Request looks like this:
@@ -28,6 +30,7 @@ The Request looks like this:
 - decrypter.exe for a specific ID
 
 **Ransomware behaviour in steps:**
+
 1. C:\Windows\system32\cmd.exe /c tasklist /v /fo csv | findstr /i "dcdcf"
   1.1 tasklist /v /fo csv
   1.2 findstr /i "dcdcf"
