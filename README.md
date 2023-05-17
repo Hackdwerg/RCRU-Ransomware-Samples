@@ -43,6 +43,11 @@ Password for the files.zip is:
    - R_cfg.ini
   - decrypter.exe for a specific ID
 
+## **important files for decryption:**
+- N-Save.sys
+- Renc.sys
+- f__d_d.sys
+
 ## **Ransomware behaviour in steps:**
 
 1. C:\Windows\system32\cmd.exe /c tasklist /v /fo csv | findstr /i "dcdcf"
