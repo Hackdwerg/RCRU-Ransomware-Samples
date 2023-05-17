@@ -3,6 +3,7 @@ Samples from the RCRU Ransomware - may 2023
 
 Contributers and researchers:
 - petikvx
+- Hodorsec
 
 After a couple of days worth of research and simple decompiling:
 
