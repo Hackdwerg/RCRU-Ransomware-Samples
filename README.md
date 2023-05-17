@@ -45,9 +45,9 @@ Password for the files.zip is:
 
 ## **important files for decryption:**
 
-- N-Save.sys : https://app.any.run/tasks/6623909b-2854-4fef-9417-796466d81270/
-- Renc.sys
-- f__d_d.sys
+- N-Save.sys - Contains information regarding system : https://app.any.run/tasks/6623909b-2854-4fef-9417-796466d81270/
+- Renc.sys - Contains information regarding system
+- f__d_d.sys - Contains information regarding system
 
 ## **Ransomware behaviour in steps:**
 
