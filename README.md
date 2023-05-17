@@ -35,11 +35,11 @@ Password for the files.zip is:
 
 **Archive.zip:**
   - Ransomware note (Readme.hta & Restore_Your_Files.txt)
-  - Xinfecter.exe
+  - Xinfecter.exe : https://tria.ge/230517-jp1v8aeb69
   - Manual Encrypters like: 
-   - XXX_Fast.exe
-   - XXX_Manual.exe
-   - XXX_Office.exe
+   - XXX_Fast.exe : https://tria.ge/230517-jvdb4sdc3t
+   - XXX_Manual.exe : https://tria.ge/230517-jv38jadc3x
+   - XXX_Office.exe : https://tria.ge/230517-jv6cwseb88
    - R_cfg.ini
   - decrypter.exe for a specific ID
 
