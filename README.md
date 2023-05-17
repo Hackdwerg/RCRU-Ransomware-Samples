@@ -1,4 +1,4 @@
-# RCRU-Ransomware-Samples
+# RCRU-Ransomware-Samples - IN PROGRESS
 Samples from the RCRU Ransomware - may 2023
 
 After a couple of days worth of research and simple decompiling:
